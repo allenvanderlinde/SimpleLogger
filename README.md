@@ -1,6 +1,8 @@
 # SimpleLogger
 A simple logging utility ready to go out of the box.
 
+Version: 1.17.4.1454
+
 ## Overview
 SimpleLogger is a lightweight utility for logging information and errors to file and to the Windows command line written in C# for .NET applications.
 
