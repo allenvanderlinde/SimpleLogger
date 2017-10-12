@@ -47,6 +47,7 @@ LogColor.BLUE
 
 LogColor.YELLOW
 
+
 ### Methods and Accessors
 ```c#
 public static string file { get; set; }
