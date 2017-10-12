@@ -38,6 +38,9 @@ namespace simple
 
 ### Color options
 LogColor.RED
+
 LogColor.GREEN
+
 LogColor.BLUE
+
 LogColor.YELLOW
