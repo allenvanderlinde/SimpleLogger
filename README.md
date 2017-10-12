@@ -11,6 +11,8 @@ There are 4 color options and the ability to change log files on the fly to log 
 A basic example will follow.
 
 ### Example
-`using SimpleLogger;
+```c#
+using SimpleLogger;
 
-other`
+other
+```
