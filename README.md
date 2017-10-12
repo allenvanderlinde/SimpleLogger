@@ -44,3 +44,27 @@ LogColor.GREEN
 LogColor.BLUE
 
 LogColor.YELLOW
+
+### Methods and Accessors
+```c#
+public static string file { get; set; }
+
+public static void change_log_file(string _file);
+
+public static void display_error(string text);
+public static void display_error(string text, LogColor color);
+
+public static void display_info(string text);
+public static void display_info(string text, LogColor color);
+
+public static void display_nl();  // Writes a line break/new line to the console
+public static void write_nl();  // Writes a line break/new line to file
+
+public static void error(string text);
+
+public static void info(string text);
+public static void info(string text, bool use_new_line);  // Writes data to a file without a line break with use_new_line = false;
+
+public static void init();
+public static void shutdown();
+```
